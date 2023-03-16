@@ -1,2 +1,6 @@
+<<<<<<< HEAD
  hi this is branch content
 hi this branch of master
+=======
+ hi this branch 5
+>>>>>>> b5
